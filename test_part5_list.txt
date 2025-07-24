@@ -1,0 +1,13 @@
+list
+Newgraph 5
+Newpoint 1 1
+Newpoint 3 1
+Newpoint 3 3
+Newpoint 1 3
+Newpoint 2 2
+CH
+Removepoint 2 2
+CH
+Newpoint 4 2
+CH
+quit

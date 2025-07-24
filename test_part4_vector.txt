@@ -1,0 +1,10 @@
+vector
+Newgraph 5
+Newpoint 0 0
+Newpoint 2 0
+Newpoint 2 2
+Newpoint 0 2
+CH
+Removepoint 2 0
+CH
+quit

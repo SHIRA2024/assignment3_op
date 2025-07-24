@@ -1,0 +1,24 @@
+New client connected from 127.0.0.1
+Vector: New graph created with capacity 4
+Vector: addPoint took 0 us
+Vector: addPoint took 0 us
+Hull points:
+(0, 0)
+(1, 0)
+Vector: addPoint took 0 us
+Hull points:
+(0, 0)
+(1, 0)
+(1, 1)
+Vector: addPoint took 0 us
+Hull points:
+(0, 0)
+(1, 0)
+(1, 1)
+(0, 1)
+Hull points:
+(0, 0)
+(1, 0)
+(1, 1)
+(0, 1)
+Vector: computeCH took 8 us

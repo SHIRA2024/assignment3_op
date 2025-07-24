@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "new": "cpp",
+        "list": "cpp",
+        "iosfwd": "cpp",
+        "future": "cpp"
+    }
+}

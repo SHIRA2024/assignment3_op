@@ -1,0 +1,10 @@
+list
+Newgraph 4
+Newpoint 1 1
+Newpoint 3 1
+Newpoint 3 3
+Newpoint 1 3
+CH
+Removepoint 3 1
+CH
+quit
