@@ -95,4 +95,10 @@ sudo apt install netcat psmisc
 
 ---
 
-✅ **Everything is ready for testing and grading.** Just `make run` and enjoy!
+
+To run the tests:
+
+Run make test_vector to test the vector implementation.
+
+Run make test_list to test the list implementation.
+
